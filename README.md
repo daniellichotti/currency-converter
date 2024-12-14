@@ -18,13 +18,13 @@ Uma aplicação web desenvolvida em HTML, CSS e Javascript, sem a utilização d
 
 Se tudo foi feito corretamente ja sera possivel ver a aplicacao rodando no navegador.
 
-5. Tecnologias
+## Tecnologias
 - HTML
 - CSS
 - Javascript
 
-7. Contribuição
+## Contribuição
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
-8. Licença
+## Licença
 -
